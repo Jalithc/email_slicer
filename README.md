@@ -1,3 +1,12 @@
+# Email Domain Extractor
+
+This Python script extracts the username and domain from an email address entered by the user.
+
+## Usage
+
+1. Run the script using Python 3.x.
+2. Enter your email address when prompted.
+3. The script will extract the username and domain from the email address and display them.
 
 ## Notes
 
